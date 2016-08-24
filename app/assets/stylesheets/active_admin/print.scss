@@ -5,7 +5,7 @@ $primary-color: black;
 $text-color: black;
 
 // Reset
-@import "active_admin/mixins/reset";
+@import "active_admin/mixins";
 @include global-reset;
 
 // Partials
